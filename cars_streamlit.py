@@ -179,6 +179,7 @@ elif sd2 == "United States":
 
     st.write("""
             In regards to north american cars, the weight has globally decreased over the years 
-            with bigger weight differences before the 80' than later on.  
+            with bigger weight differences before the 80' than later on.
+            The horsepower of cars globally decreases over time.
             """)
 
